@@ -1,0 +1,30 @@
+/*******************************************/
+/*********IMPORATION DES GOOGLE FONTS*******/
+/*******************************************/
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap'); /* font-family: 'Press Start 2P', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap'); /* font-family: 'Alex Brush', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'); /* font-family: 'Open Sans', sans-serif; */ /* pour les textes, paragraphes, articles,, etc */
+
+/*******************************************/
+/****************** BODY *******************/
+/*******************************************/
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url('../img/bamboo-1480340.png') no-repeat;
+    background-size: cover;
+    height: 3000px;
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+    color: #ffffff;
+    font-size: 62px;
+    font-family: 'Press Start 2P', cursive;
+    padding: 15%;
+    line-height: 110px;
+    text-decoration: underline;
+}

@@ -1,0 +1,23 @@
+/*******************************************/
+/*********IMPORATION DES GOOGLE FONTS*******/
+/*******************************************/
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap'); /* font-family: 'Press Start 2P', cursive; */
+
+/*******************************************/
+/****************** BODY *******************/
+/*******************************************/
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #201e42;
+}
+h1{
+    justify-content: center;
+    text-align: center;
+    color: #ffffff;
+    font-size: 62px;
+    font-family: 'Press Start 2P', cursive;
+    padding: 15%;
+    line-height: 110px;
+    text-decoration: underline;
+}
